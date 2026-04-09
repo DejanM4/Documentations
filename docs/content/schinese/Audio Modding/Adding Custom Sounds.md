@@ -1,6 +1,6 @@
 +++
-title = "给你的Mod添加音乐"
-weight = 1
+title = "给你的Mod添加音乐 (Outdated)"
+weight = 100
 +++
 
 《霸主》的音频系统是基于 FMOD 音频引擎建立的。     

@@ -1,6 +1,6 @@
 +++
-title = "Adding Sounds to Your Module"
-weight = 1
+title = "Adding Sounds to Your Module (Outdated)"
+weight = 100
 +++
 
 Bannerlord audio system is built on proprietary FMOD Sound system.
