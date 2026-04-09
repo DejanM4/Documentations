@@ -1,7 +1,7 @@
 +++
-title = "Playing Sounds"
+title = "Audio Modding"
 description = ""
-weight = 1
+weight = 10
 +++
 
 {{%children style="h5" description="true"%}}
