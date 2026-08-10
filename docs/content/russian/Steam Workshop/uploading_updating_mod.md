@@ -53,17 +53,15 @@ Download [this file](https://download.taleworlds.com/WorkshopCreate.xml) and pla
 			<!-- A description that will be displayed on Steam Workshop, can be edited via the Steam UI -->
 			<Tags> 
 				<!-- You can use the following tags: -->
-				<!-- DLC Required: War Sails - If your mod relies on the War Sails DLC, make sure to insert the tag -->
 				<!-- Type: Graphical Enhancement, Map Pack, Partial Conversion, Sound, Total Conversion, Troops, UI, Utility, Weapons and Armour -->
 				<!-- Setting: Native, Antiquity, Dark Ages, Medieval, Musket Era, Modern, Sci-Fi, Fantasy, Oriental, Apocalypse, Other -->
 				<!-- Game Mode: Singleplayer, Multiplayer -->
-				<!-- Compatible Version: e1.9.0, v1.0.0,... The currently available versions can be found at the Steam Workshop "Browse by Tag" section -->
-				<Tag Value="War Sails" />
+				<!-- Compatible Version: v1.4.5, v1.4.6,... The currently available versions can be found at the Steam Workshop "Browse by Tag" section -->
 				<Tag Value="Partial Conversion" />
 				<Tag Value="Dark Ages" />
 				<Tag Value="Singleplayer" />
 				<Tag Value="Multiplayer" />
-				<Tag Value="e1.9.0" />
+				<Tag Value="v1.4.6" />
 			</Tags>
 			<Image Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\YourModuleName\Image.png"/>
 			<!-- Determines the featured image displayed on Steam Workshop, a direct path to it must be inserted here (the image should be smaller than 1 MB) -->
@@ -80,7 +78,7 @@ Download [this file](https://download.taleworlds.com/WorkshopCreate.xml) and pla
 		* `Type`: Graphical Enhancement, Map Pack, Partial Conversion, Sound, Total Conversion, Troops, UI, Utility, Weapons and Armour
 		* `Setting`: Native, Antiquity, Dark Ages, Medieval, Musket Era, Modern, Sci-Fi, Fantasy, Oriental, Apocalypse, Other
 		* `Game Mode`: Singleplayer, Multiplayer
-		* `Compatible Version`: e1.9.0, v1.0.0,... (the currently available versions can be found at the Steam Workshop "Browse by Tag" section)
+		* `Compatible Version`: v1.4.5, v1.4.6,... (the currently available versions can be found at the Steam Workshop "Browse by Tag" section)
 		* You’re encouraged to only use the above tags as they’re what players will be able to filter mods by. Any other tags won’t show up on the Filter list but will show up on your mod Steam Workshop page
 	* `Image`: Determines the featured image displayed on Steam Workshop, a direct path to it must be inserted here (the image should be smaller than 1 MB)
 	* `Visibility`: Determines visibility on Steam Workshop. Can be: Public, FriendsOnly, Private
@@ -122,17 +120,15 @@ Download [this file](https://download.taleworlds.com/WorkshopUpdate.xml) and pla
 			<!-- Insert patch notes -->
 			<Tags> 
 				<!-- You can use the following tags: -->
-				<!-- DLC Required: War Sails - If your mod relies on the War Sails DLC, make sure to insert the tag -->
 				<!-- Type: Graphical Enhancement, Map Pack, Partial Conversion, Sound, Total Conversion, Troops, UI, Utility, Weapons and Armour -->
 				<!-- Setting: Native, Antiquity, Dark Ages, Medieval, Musket Era, Modern, Sci-Fi, Fantasy, Oriental, Apocalypse, Other -->
 				<!-- Game Mode: Singleplayer, Multiplayer -->
-				<!-- Compatible Version: e1.9.0, v1.0.0,... The currently available versions can be found at the Steam Workshop "Browse by Tag" section -->
-				<Tag Value="War Sails" />
+				<!-- Compatible Version: v1.4.5, v1.4.6,... The currently available versions can be found at the Steam Workshop "Browse by Tag" section -->
 				<Tag Value="Partial Conversion" />
 				<Tag Value="Dark Ages" />
 				<Tag Value="Singleplayer" />
 				<Tag Value="Multiplayer" />
-				<Tag Value="e1.9.0" />
+				<Tag Value="v1.4.6" />
 			</Tags>
 		</UpdateItem>
 	</Tasks>
